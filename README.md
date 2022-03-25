@@ -20,8 +20,8 @@ In this module, we created a .csv file with 2,793 rows of data for each strain l
 - Import, analyze, clean, and preprocess a “real-world” classification dataset    
 
 ## Summary
-**Raw .csv [here]()**
-**Check-out this interactive website this data was used with [here]()**
+**Raw .csv [here]()**  
+**Check-out this interactive website this data was used with [here]()**  
 **Check-out the app this data was used with [here]()**
 
 ![](/gif.gif)  
