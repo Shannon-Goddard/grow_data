@@ -20,9 +20,9 @@ In this module, we created a .csv file with 2,793 rows of data for each strain l
 - Import, analyze, clean, and preprocess a “real-world” classification dataset    
 
 ## Summary
-**Vie the raw .csv [here](https://raw.githubusercontent.com/Shannon-Goddard/grow_data/main/Resources/csv/ALL_data.csv)**  
+**View the raw .csv [here](https://raw.githubusercontent.com/Shannon-Goddard/grow_data/main/Resources/csv/ALL_data.csv)**  
 
-*Coming soon...*
+*Coming soon...*  
 **Check-out this interactive website this data was used with [here]()**  
 **Check-out the app this data was used with [here]()**
 
