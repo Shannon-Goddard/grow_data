@@ -27,4 +27,4 @@ In this module, we created a .csv file with 2,793 rows of data for each strain l
 ![](/gif.gif)  
 
 ## Limitations  
-**Not all the individual data websites were able to be executed within the Jupyter Notebook due to missing letter of the strain names. Had to mannually go into .csv file "Find" and replace. **| Permissible** [License]() With exception of author, for educational and entertaiment purposes only. Not for profit.
+**Not all the individual data websites were able to be executed within the Jupyter Notebook due to missing letter of the strain names. Had to mannually go into .csv file "Find" and replace.** **| Permissible** Shannon-Goddard/grow_data is licensed under the [MIT License]() A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
