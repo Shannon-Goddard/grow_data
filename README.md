@@ -1,4 +1,4 @@
-![header_pic](/header.png)
+![header_pic](/Resources/pics/header_pic.png)
  
 #### Table of Contents  
 
