@@ -26,7 +26,7 @@ In this module, we created a .csv file with 2,793 rows of data for each strain l
 **Check-out this interactive website this data was used with [here]()**  
 **Check-out the app this data was used with [here]()**
 
-![](/Resources/pics/gif.png)  
+![](/Resources/pics/gif.gif)  
 
 ## Limitations  
 **Not all the individual data websites were able to be executed within the Jupyter Notebook due to missing letter of the strain names on website. Had to mannually go into .csv file "Find" and replace.** **| Permissible** [MIT License](https://github.com/Shannon-Goddard/grow_data/blob/main/LICENSE)
