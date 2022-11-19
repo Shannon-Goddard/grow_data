@@ -21,12 +21,7 @@ In this module, we created a .csv file with 2,793 rows of data for each strain l
 
 ## Summary
 **View the raw .csv [here](https://raw.githubusercontent.com/Shannon-Goddard/grow_data/main/Resources/csv/ALL_data.csv)**  
-
-*Coming soon...*  
-**Check-out this interactive website this data was used with [here]()**  
-**Check-out the app this data was used with [here]()**
-
-![](/Resources/pics/gif.gif)  
+**Check-out this interactive website this data was used with [here](https://www.loyal9.app/)**  
 
 ## Limitations  
 Not all the individual data websites were able to be executed within the Jupyter Notebook due to missing letters of the strain names on individual website. Had to mannually go into .csv file "Find" and replace as code ran and crashed with printed ammended lines leading to name of strain prior to '404'. | Shannon-Goddard/grow_data is licensed under the
